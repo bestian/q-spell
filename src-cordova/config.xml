@@ -128,4 +128,12 @@
         <splash density="land-xxxhdpi" src="res/screen/android/splash-land-xxxhdpi.png" />
         <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
     </platform>
+    <platform name="android">
+       <!-- other settings -->
+      
+       <preference name="android-minSdkVersion" value="23" />
+       <preference name="android-targetSdkVersion" value="31" />
+       
+       <!-- other settings -->
+    </platform>
 </widget>
