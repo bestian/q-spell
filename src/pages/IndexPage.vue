@@ -33,6 +33,23 @@ Oṃ varada padme hūm</p>
 蓮華成就最勝尊，<br/>普願皆滿悉如意；<br/>此咒一出諸震動，<br/>
 即時句召光明境，<br/>法螺遍響立變現，<br/>圓滿成就功德具。</p>
 
+    <h3>消災吉祥神咒
+    </h3>
+
+    <p>Namaḥ Samanta Buddhānām Apratihata Śāsanānāṃ. Tadyathā Oṃ Kha Kha Khāhi Khāhi Hūṃ Hūṃ Jvala Jvala Prajvala Prajvala Tiṣṭha Tiṣṭha Ṣṭri Ṣṭri Sphoṭa Sphoṭa Śāntika Śrīye Svāhā.</p>
+
+    <p>南無 三滿哆 母馱喃 阿鉢囉底 賀多舍 娑曩喃　怛姪他　唵 　
+
+佉佉　佉呬　　佉呬　　吽吽　入嚩囉　　入嚩囉　　鉢囉入嚩囉　
+
+鉢囉入嚩囉　　底瑟姹　　瑟致哩　　瑟致哩　　
+
+娑癹吒　　娑癹吒　　扇底迦　　室哩曳　娑嚩訶
+    </p>
+
+
+    <p>皈依一切諸佛無所障礙佛法<br/>即說咒曰虛空妄想虛空妄想被破壞被破壞強大的力量光明光明開始光明開始光明加持由小而大由小而大擴展開來擴展開來<br/>消除災難得到繁榮成就圓滿吉祥</p>
+
     </div>
 
     <table class="styled-table container fat-only">
@@ -77,6 +94,20 @@ Oṃ varada padme hūm</td>
 真言宣說眾功德；<br/>運轉神變殊勝遇，<br/>轉輪聖王世間貴，<br/>
 蓮華成就最勝尊，<br/>普願皆滿悉如意；<br/>此咒一出諸震動，<br/>
 即時句召光明境，<br/>法螺遍響立變現，<br/>圓滿成就功德具。 </td>
+        </tr>
+
+        <tr>
+          <td>消災吉祥神咒</td>
+          <td></td>
+          <td>Namaḥ Samanta Buddhānām Apratihata Śāsanānāṃ. Tadyathā Oṃ Kha Kha Khāhi Khāhi Hūṃ Hūṃ Jvala Jvala Prajvala Prajvala Tiṣṭha Tiṣṭha Ṣṭri Ṣṭri Sphoṭa Sphoṭa Śāntika Śrīye Svāhā.</td>
+          <td>南無 三滿哆 母馱喃 阿鉢囉底 賀多舍 娑曩喃　怛姪他　唵 　
+
+佉佉　佉呬　　佉呬　　吽吽　入嚩囉　　入嚩囉　　鉢囉入嚩囉　
+
+鉢囉入嚩囉　　底瑟姹　　瑟致哩　　瑟致哩　　
+
+娑癹吒　　娑癹吒　　扇底迦　　室哩曳　娑嚩訶</td>
+          <td class="wide">皈依一切諸佛無所障礙佛法<br/>即說咒曰虛空妄想虛空妄想被破壞被破壞強大的力量光明光明開始光明開始光明加持由小而大由小而大擴展開來擴展開來<br/>消除災難得到繁榮成就圓滿吉祥</td>
         </tr>
       </tbody>
     </table>
