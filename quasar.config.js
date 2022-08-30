@@ -152,8 +152,8 @@ module.exports = configure(function (ctx) {
       
 
       manifest: {
-        name: `Quasar App`,
-        short_name: `Quasar App`,
+        name: `佛門咒文`,
+        short_name: `佛門咒文`,
         description: `Spells`,
         display: 'standalone',
         orientation: 'portrait',

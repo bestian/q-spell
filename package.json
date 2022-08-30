@@ -2,7 +2,7 @@
   "name": "q-spell",
   "version": "0.0.1",
   "description": "Spells",
-  "productName": "Quasar App",
+  "productName": "佛門咒文",
   "author": "Bestian Tang 小巴 <bestian@gmail.com>",
   "private": true,
   "scripts": {
