@@ -129,11 +129,7 @@
         <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
     </platform>
     <platform name="android">
-       <!-- other settings -->
-      
-       <preference name="android-minSdkVersion" value="23" />
-       <preference name="android-targetSdkVersion" value="31" />
-       
-       <!-- other settings -->
+        <preference name="android-minSdkVersion" value="23" />
+        <preference name="android-targetSdkVersion" value="31" />
     </platform>
 </widget>
