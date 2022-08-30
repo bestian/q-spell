@@ -8,7 +8,7 @@
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 18px;
+    font-size: 22px;
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -23,6 +23,7 @@
 .styled-table th,
 .styled-table td {
     padding: 12px 15px;
+    min-width: 200px;
 }
 
 .styled-table tbody tr {
@@ -43,5 +44,29 @@
 }
 
 .wide {
-	min-width:300px;
+	min-width:250px !important;
+}
+
+table, p {
+	font-family: "Bpmf GenYo Gothic", "Bpmf GenYo Gothic R" !important;
+}
+
+@media screen and (max-width: 600px) {
+	.fat-only {
+	  display: none !important;
+	}
+}
+
+@media screen and (min-width: 601px) {
+	.thin-only {
+	  display: none !important;
+	}
+}
+
+p  {
+	font-size: 26px;
+}
+
+.pad {
+	padding: .6em;
 }
