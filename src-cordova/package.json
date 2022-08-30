@@ -1,5 +1,5 @@
 {
-  "name": "tw.bestian.spell",
+  "name": "tw.bestian.spells",
   "displayName": "佛門咒文",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
@@ -13,6 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
+    "cordova-ios": "^6.2.0",
     "cordova-plugin-splashscreen": "^6.0.2",
     "cordova-plugin-wkwebview-engine": "^1.2.2"
   },
@@ -20,6 +21,9 @@
     "plugins": {
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-wkwebview-engine": {}
-    }
+    },
+    "platforms": [
+      "ios"
+    ]
   }
 }

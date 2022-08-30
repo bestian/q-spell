@@ -29,6 +29,10 @@ module.exports = configure(function (ctx) {
       
       
     ],
+    
+    cordova: {
+      noIosLegacyBuildFlag: true
+    },
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js#Property%3A-css
     css: [
