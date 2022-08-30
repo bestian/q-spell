@@ -29,7 +29,7 @@ module.exports = configure(function (ctx) {
       
       
     ],
-    
+
     cordova: {
       noIosLegacyBuildFlag: true
     },
