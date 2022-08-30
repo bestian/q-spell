@@ -13,11 +13,13 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
-    "cordova-plugin-splashscreen": "^6.0.2"
+    "cordova-plugin-splashscreen": "^6.0.2",
+    "cordova-plugin-wkwebview-engine": "^1.2.2"
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-splashscreen": {}
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-wkwebview-engine": {}
     }
   }
 }

@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="tw.bestian.spell" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>佛門咒文</name>
-    <description>Sample Apache Cordova App</description>
-    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
-        Apache Cordova Team
+    <description>佛門咒文意譯</description>
+    <author email="bestian@gmail.com" href="https://www.github.com/bestian/">
+        Bestian Tang
     </author>
+    <feature name="CDVWKWebViewEngine">
+      <param name="ios-package" value="CDVWKWebViewEngine" />
+    </feature>
+
+    <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
+
+    <preference name="WKWebViewOnly" value="true" />
+
+    <preference name="AllowBackForwardNavigationGestures" value="true" />
+    
+    <preference name="Allow3DTouchLinkPreview" value="false" />
+
+    <platform name="ios">
+      <preference name="ScrollEnabled" value="true" />
+    </platform>
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
