@@ -50,19 +50,26 @@ Oṃ varada padme hūm</p>
 
     <p>皈依一切諸佛無所障礙佛法<br/>即說咒曰虛空妄想虛空妄想被破壞被破壞強大的力量光明光明開始光明開始光明加持由小而大由小而大擴展開來擴展開來<br/>消除災難得到繁榮成就圓滿吉祥</p>
 
+    <h3>功德寶山神咒</h3>
+
+    <p>
+Namo buddhāya Namo dharmāya Namaḥ saṅghāya Om sīte huru-ru sindhūru kṛpā-kṛpā siddhaṇi pūrṇi svāhā</p>
+
+    <p>南無佛馱耶。南無達摩耶。南無僧伽耶。 唵。悉帝護嚕嚕。悉都嚕。只利波。 吉利婆。悉達哩。布嚕哩。娑嚩訶</p>
+
+    <p>禮敬諸佛，禮敬尊法，禮敬賢聖僧。<br/>歸命可速速成就大慈悲心<br/>速成就具足圓滿。</p>
+
     </div>
 
     <table class="styled-table container fat-only">
       <thead>
-        <tr><th>咒文</th><th>悉曇文</th><th>羅馬拼音</th><th>漢語音譯</th><th class="wide">意譯</th></tr>
+        <tr><th>咒文</th><th>羅馬拼音</th><th>漢語音譯</th><th class="wide">意譯</th></tr>
       </thead>
 
       <tbody>
       
         <tr>
           <td>光明真言</td>
-          <td>𑖌𑖼𑖀𑖦𑖺𑖑𑖪𑖹𑖨𑖺𑖓𑖡<br/>𑖦𑖮𑖯𑖦𑖲𑖟𑖿𑖨𑖯𑖦𑖜𑖰𑖢𑖟𑖿𑖦<br/>𑖕𑖿𑖪𑖯𑖩𑖢𑖿𑖨𑖪𑖨𑖿𑖝𑖿𑖝𑖧𑖮𑗝𑖽
-          </td>
 
           <td>oṃ amogha vairocana mahā-mudra maṇi-padma jvala pravarttaya hūṃ</td>
 
@@ -73,8 +80,6 @@ Oṃ varada padme hūm</p>
 
         <tr>
           <td>如意寶輪王陀羅尼</td>
-          <td>
-          </td>
 
           <td>Namo ratna-trayāya
 Nama Āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya
@@ -98,7 +103,6 @@ Oṃ varada padme hūm</td>
 
         <tr>
           <td>消災吉祥神咒</td>
-          <td></td>
           <td>Namaḥ Samanta Buddhānām Apratihata Śāsanānāṃ. Tadyathā Oṃ Kha Kha Khāhi Khāhi Hūṃ Hūṃ Jvala Jvala Prajvala Prajvala Tiṣṭha Tiṣṭha Ṣṭri Ṣṭri Sphoṭa Sphoṭa Śāntika Śrīye Svāhā.</td>
           <td>南無 三滿哆 母馱喃 阿鉢囉底 賀多舍 娑曩喃　怛姪他　唵 　
 
@@ -108,6 +112,20 @@ Oṃ varada padme hūm</td>
 
 娑癹吒　　娑癹吒　　扇底迦　　室哩曳　娑嚩訶</td>
           <td class="wide">皈依一切諸佛無所障礙佛法<br/>即說咒曰虛空妄想虛空妄想被破壞被破壞強大的力量光明光明開始光明開始光明加持由小而大由小而大擴展開來擴展開來<br/>消除災難得到繁榮成就圓滿吉祥</td>
+        </tr>
+
+        <tr>
+          <td>
+            功德寶山神咒
+          </td>
+          <td>
+            Namo buddhāya Namo dharmāya Namaḥ saṅghāya Om sīte huru-ru sindhūru kṛpā-kṛpā siddhaṇi pūrṇi svāhā
+          </td>
+          <td>
+            南無佛馱耶。南無達摩耶。南無僧伽耶。 唵。悉帝護嚕嚕。悉都嚕。只利波。 吉利婆。悉達哩。布嚕哩。娑嚩訶
+          </td>
+          <td class="wide">禮敬諸佛，禮敬尊法，禮敬賢聖僧。<br/>歸命可速速成就大慈悲心<br/>速成就具足圓滿。
+          </td>
         </tr>
       </tbody>
     </table>
