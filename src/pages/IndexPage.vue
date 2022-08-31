@@ -976,7 +976,7 @@ rā ya bo dhi svā hā </td>
         <tr>
           <td>楞嚴咒</td>
 
-          <td></td>
+          <td v-show="showA"></td>
 
     <td v-show="showB">南無楞嚴會上佛菩薩 (三稱) <br/>
 
