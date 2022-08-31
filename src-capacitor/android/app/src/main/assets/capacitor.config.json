@@ -1,0 +1,7 @@
+{
+  "appId": "tw.bestian.spells",
+  "appName": "佛門咒文集",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
