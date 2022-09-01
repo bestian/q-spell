@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          佛門大悲咒歸西方極樂阿彌陀佛佛國
+          佛門咒文集
         </q-toolbar-title>
 
       </q-toolbar>
