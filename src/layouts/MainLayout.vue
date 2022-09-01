@@ -24,11 +24,12 @@
       bordered
     >
       <q-list>
-        <q-item-label
-          header
-        >
-          Essential Links
-        </q-item-label>
+
+        <q-item to="/">回首頁</q-item>
+        <q-item to="/light">光明真言</q-item>
+        <q-item to="/ten">十小咒</q-item>
+        <q-item to="/dabei">大悲咒</q-item>
+        <q-item to="/lengyan">楞嚴咒</q-item>
 
         <EssentialLink
           v-for="link in essentialLinks"

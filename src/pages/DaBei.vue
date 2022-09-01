@@ -2,6 +2,13 @@
   <q-page class="flex flex-center">
 
   <div class="q-pa-md">
+      <div class="btn-group">
+        <router-link class = "btn" to="/light">光明真言</router-link>
+        <router-link class = "btn" to="/ten">十小咒</router-link>
+        <router-link class = "btn" to="/dabei">大悲咒</router-link>
+        <router-link class = "btn" to="/lengyan">楞嚴咒</router-link>
+        <router-link class = "btn" to="/">回首頁</router-link>
+      </div>
     選擇顯示：
     <q-checkbox v-model="showA" />拼音
     <q-checkbox v-model="showB" />中文發音
