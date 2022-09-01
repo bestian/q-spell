@@ -4,7 +4,11 @@ const routes = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/IndexPage.vue') }
+      { path: '', component: () => import('pages/IndexPage.vue') },
+      { path: 'light', component: () => import('pages/Light.vue') },
+      { path: 'ten', component: () => import('pages/Ten.vue') },
+      { path: 'dabei', component: () => import('pages/DaBei.vue') },
+      { path: 'lengyan', component: () => import('pages/LengYan.vue') },
     ]
   },
 
