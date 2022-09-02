@@ -15,6 +15,7 @@
 
 <script>
 import { defineComponent } from 'vue'
+import firebase from "firebase"
 
 export default defineComponent({
   name: 'IndexPage',
@@ -23,6 +24,18 @@ export default defineComponent({
       showA: false,
       showB: true,
       showC: true
+    }
+  },
+  methods: {
+    submit() {
+        firebase
+            .firestore()
+            .collection("spells")
+            .add({
+                name: this.name,
+                date: new Date(),
+                say: this.say
+            })
     }
   }
 })
