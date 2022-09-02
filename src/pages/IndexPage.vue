@@ -2,6 +2,36 @@
   <q-page class="flex flex-center">
 
     <div class="q-pa-md">
+      <q-form
+      @submit="submit"
+      @reset="reset"
+      class="q-gutter-md"
+      >
+        <q-input
+          filled
+          v-model="name"
+          label="您的大名/法名 *"
+          hint=""
+          lazy-rules
+          :rules="[ val => val && val.length > 0 || '請輪入']"
+        />
+
+        <q-input
+          filled
+          type="text"
+          v-model="say"
+          label="您今天念了什麼咒 *"
+          lazy-rules
+          :rules="[ val => val && val.length > 0 || '請輪入']"
+        />
+        <div>
+          <q-btn label="登入!" type="submit" color="primary"/>
+          <q-btn label="重設" type="reset" color="primary" flat class="q-ml-sm" />
+        </div>
+      </q-form>
+    </div>
+
+    <div class="q-pa-md">
       <div class="btn-group">
         <router-link class = "btn" to="/light">光明真言</router-link>
         <router-link class = "btn" to="/ten">十小咒</router-link>
@@ -15,7 +45,8 @@
 
 <script>
 import { defineComponent } from 'vue'
-import firebase from "firebase"
+import firebase from 'firebase/compat/app';
+import 'firebase/compat/firestore';
 
 export default defineComponent({
   name: 'IndexPage',
@@ -23,7 +54,9 @@ export default defineComponent({
     return {
       showA: false,
       showB: true,
-      showC: true
+      showC: true,
+      name: '',
+      say: ''
     }
   },
   methods: {
@@ -33,9 +66,13 @@ export default defineComponent({
             .collection("spells")
             .add({
                 name: this.name,
-                date: new Date(),
+                time: (new Date()).getTime(),
                 say: this.say
             })
+    },   
+    reset() {
+        this.name = '';
+        this.say  = '';
     }
   }
 })

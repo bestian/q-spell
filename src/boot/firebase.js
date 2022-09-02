@@ -1,6 +1,5 @@
-import * as firebase from "firebase/app"
-
-import "firebase/firestore"
+import firebase from 'firebase/compat/app';
+import 'firebase/compat/firestore';
 
 // Agregar configuración firebase:
 var firebaseConfig = {
@@ -14,7 +13,6 @@ var firebaseConfig = {
 }
 
 let firebaseApp = firebase.initializeApp(firebaseConfig)
-let firebaseAuth = firebaseApp.auth()
 let db = firebase.firestore();
 
-export { firebaseAuth, db }
+export { db }
