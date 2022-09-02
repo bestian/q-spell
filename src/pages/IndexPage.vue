@@ -1,5 +1,10 @@
 <template>
   <q-page class="flex flex-center">
+    <div class="q-pa-md">
+      <div v-for="s in spells" :key="s.date">
+        {{s.name}} 念了 {{s.say}}
+      </div>
+    </div>
 
     <div class="q-pa-md">
       <q-form
@@ -56,7 +61,9 @@ export default defineComponent({
       showB: true,
       showC: true,
       name: '',
-      say: ''
+      say: '',
+      spells: [],
+      loading: false
     }
   },
   methods: {
@@ -73,7 +80,24 @@ export default defineComponent({
     reset() {
         this.name = '';
         this.say  = '';
+    },
+    getData () {
+      console.log('aaa');
+      this.loading = true
+      this.spells = []
+      let collection = firebase.firestore().collection('spells')
+      collection.get()
+        .then(querySnapshot => {
+          querySnapshot.forEach(doc => {
+            this.spells.push(doc.data())
+          })
+          this.loading = false
+        })
+        .catch(error => console.error(error))
     }
+  },
+  mounted () {
+    this.getData()
   }
 })
 </script>
