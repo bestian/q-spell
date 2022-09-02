@@ -1,8 +1,8 @@
 <template>
   <q-page class="flex flex-center">
     <div class="q-pa-md">
-      <div v-for="s in spells" :key="s.date">
-        {{s.name}} 念了 {{s.say}}
+      <div v-for="s in spells" :key="s.time">
+        {{s.date}}: {{s.name}} 念了 {{s.say}}
       </div>
     </div>
 
@@ -61,6 +61,7 @@ export default defineComponent({
       showB: true,
       showC: true,
       name: '',
+      date: new Date().getFullYear() +'/'+ parseInt(1+new Date().getMonth()) +'/'+ new Date().getDate(),
       say: '',
       spells: [],
       loading: false
@@ -73,9 +74,11 @@ export default defineComponent({
             .collection("spells")
             .add({
                 name: this.name,
+                date: this.date,
                 time: (new Date()).getTime(),
                 say: this.say
             })
+        this.getData()
     },   
     reset() {
         this.name = '';
