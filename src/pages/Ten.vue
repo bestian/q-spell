@@ -16,7 +16,7 @@
 
     <div class="pad thin-only">
       
-      <h3>如意寶輪王陀羅尼</h3>
+      <h3>如意寶輪王陀羅尼<iframe width="360" height="315" src="https://www.youtube.com/embed/n_pIZXKkkX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">Namo ratna-trayāya
 Nama Āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya
@@ -37,7 +37,7 @@ Oṃ varada padme hūm</p>
 蓮華成就最勝尊，<br/>普願皆滿悉如意；<br/>此咒一出諸震動，<br/>
 即時句召光明境，<br/>法螺遍響立變現，<br/>圓滿成就功德具。</p>
 
-      <h3>消災吉祥神咒
+      <h3>消災吉祥神咒<iframe width="360" height="315" src="https://www.youtube.com/embed/tuKnoCreiSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </h3>
 
       <p v-show="showA">Namaḥ Samanta Buddhānām Apratihata Śāsanānāṃ. Tadyathā Oṃ Kha Kha Khāhi Khāhi Hūṃ Hūṃ Jvala Jvala Prajvala Prajvala Tiṣṭha Tiṣṭha Ṣṭri Ṣṭri Sphoṭa Sphoṭa Śāntika Śrīye Svāhā.</p>
@@ -54,7 +54,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">皈依一切諸佛無所障礙佛法<br/>即說咒曰虛空妄想虛空妄想被破壞被破壞強大的力量光明光明開始光明開始光明加持由小而大由小而大擴展開來擴展開來<br/>消除災難得到繁榮成就圓滿吉祥</p>
 
-      <h3>功德寶山神咒</h3>
+      <h3>功德寶山神咒<iframe width="360" height="315" src="https://www.youtube.com/embed/khQjWfCReVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">
   Namo buddhāya Namo dharmāya Namaḥ saṅghāya Om sīte huru-ru sindhūru kṛpā-kṛpā siddhaṇi pūrṇi svāhā</p>
@@ -63,7 +63,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">禮敬諸佛，禮敬尊法，禮敬賢聖僧。<br/>歸命可速速成就大慈悲心<br/>速成就具足圓滿。</p>
 
-      <h3>佛母準提神咒</h3>
+      <h3>佛母準提神咒<iframe width="360" height="315" src="https://www.youtube.com/embed/LEv9aWm7fds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">namaḥ saptānām samyaksambuddha koṭīnām| tadyathā| oṃ cale cule cunde svāhā|</p>
 
@@ -71,7 +71,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">皈依諸佛，隨著清淨之菩提心前進，而成就佛果。</p>
 
-      <h3>聖無量壽決定光明王陀羅尼</h3>
+      <h3>聖無量壽決定光明王陀羅尼<iframe width="360" height="315" src="https://www.youtube.com/embed/gJH5RBk7n8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">namo bhagavate aparimita-āyur jñāna su-viniścita tejo-rājāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ sarva saṃ-skāra pari-śuddha dharmate gagana samudgate svabhāva vi-śuddhe mahā-naya pari-vāre svāhā</p>
 
@@ -79,7 +79,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">禮敬如來大乘無量壽智已決定光明王如來無上正等正覺<br/>即咒曰皈命一切行蘊清淨法性虛空成就自性清淨大乘眷屬圓滿</p>
 
-      <h3>藥師灌頂真言</h3>
+      <h3>藥師灌頂真言<iframe width="360" height="315" src="https://www.youtube.com/embed/o36OjRmOhb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">námó bóqiéfádì, píshāshè, jùlū bìliúlí, bōlǎpó, hèlàshéyě,
   dátuōjiēduōyē, ē là hè dì, sānmiǎo sānbótuóyē, dázhítuō,
@@ -89,7 +89,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">南無世尊藥師薜琉璃光王如來應供正等正覺<br/>即說咒曰：唵藥藥藥效升起圓滿</p>
 
-      <h3>觀音靈感真言</h3>
+      <h3>觀音靈感真言<iframe width="360" height="315" src="https://www.youtube.com/embed/K5TgXh7bdmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">oṃ maṇi padme hūṃ
   mahā jñāna cittotpāda cittasya na vitarka sarvārtha prasiddhaka na purāṇa na pratyutpanna
@@ -103,7 +103,7 @@ Oṃ varada padme hūm</p>
   大智發於心，於心無所尋，成就一切義，無古亦無今。<br/>
   禮敬世自在者</p>
 
-      <h3>七佛滅罪真言</h3>
+      <h3>七佛滅罪真言<iframe width="360" height="315" src="https://www.youtube.com/embed/GaxF_MAgCQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">lipa lipate, guha guhate, dharalite, nirharate, vimalate, maha gate, jinekante, svaha.</p>
 
@@ -111,7 +111,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">用第一神通滅罪。用魄力破除因業滅罪。用智慧謀略滅罪。用去除紛爭與名位滅罪。用去除口業與驕氣滅罪。用大行動與大魄力滅罪。用去慾、去名利、去情緒滅罪。成就吉祥。</p>
 
-      <h3>往生淨土神咒</h3>
+      <h3>往生淨土神咒<iframe width="360" height="315" src="https://www.youtube.com/embed/QbQGgtSgD2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">namo amitābhāya tathāgatāya tadyathā amṛtod-bhave amṛta-siddhaṃ bhave amṛta-vikrānte amṛta-vikrānta gāmine gagana kīrta-kare svāhā
       </p>
@@ -121,7 +121,7 @@ Oṃ varada padme hūm</p>
 
       <p v-show="showC">歸命無量光如來即說咒曰甘露(即長生不死之藥) 、甘露成就者、甘露撒播者、甘露神力者、遍滿虛空者、聲名宣揚者成就圓滿</p>
 
-      <h3>善女天咒(大吉祥天女咒)</h3>
+      <h3>善女天咒(大吉祥天女咒)<iframe width="360" height="315" src="https://www.youtube.com/embed/Z_CXsPVEi_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
       <p v-show="showA">Namo buddhāya. Namo dharmāya. Namah samghāya.
 Namah Śrī Mahādevīye.Tadyathā,
@@ -171,7 +171,7 @@ samantārtha anupālane svāhā.</p>
       <tbody>
       
         <tr>
-          <td>如意寶輪王陀羅尼</td>
+          <td>如意寶輪王陀羅尼<iframe width="260" height="315" src="https://www.youtube.com/embed/n_pIZXKkkX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">Namo ratna-trayāya
 Nama Āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya
@@ -194,7 +194,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>消災吉祥神咒</td>
+          <td>消災吉祥神咒<iframe width="260" height="315" src="https://www.youtube.com/embed/tuKnoCreiSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">Namaḥ Samanta Buddhānām Apratihata Śāsanānāṃ. Tadyathā Oṃ Kha Kha Khāhi Khāhi Hūṃ Hūṃ Jvala Jvala Prajvala Prajvala Tiṣṭha Tiṣṭha Ṣṭri Ṣṭri Sphoṭa Sphoṭa Śāntika Śrīye Svāhā.</td>
 
@@ -210,7 +210,7 @@ Oṃ varada padme hūm</td>
 
         <tr>
           <td>
-            功德寶山神咒
+            功德寶山神咒<iframe width="260" height="315" src="https://www.youtube.com/embed/khQjWfCReVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </td>
           <td v-show="showA">
             Namo buddhāya Namo dharmāya Namaḥ saṅghāya Om sīte huru-ru sindhūru kṛpā-kṛpā siddhaṇi pūrṇi svāhā
@@ -224,7 +224,7 @@ Oṃ varada padme hūm</td>
 
         <tr>
           <td>
-            佛母準提神咒
+            佛母準提神咒<iframe width="260" height="315" src="https://www.youtube.com/embed/LEv9aWm7fds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </td>
           <td v-show="showA">
             namaḥ saptānām samyaksambuddha koṭīnām| tadyathā| oṃ cale cule cunde svāhā|
@@ -237,7 +237,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>聖無量壽決定光明王陀羅尼</td>
+          <td>聖無量壽決定光明王陀羅尼<iframe width="260" height="315" src="https://www.youtube.com/embed/gJH5RBk7n8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">namo bhagavate aparimita-āyur jñāna su-viniścita tejo-rājāya tathāgatāya arhate samyak-saṃbuddhāya tadyathā oṃ sarva saṃ-skāra pari-śuddha dharmate gagana samudgate svabhāva vi-śuddhe mahā-naya pari-vāre svāhā</td>
 
@@ -247,7 +247,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>藥師灌頂真言</td>
+          <td>藥師灌頂真言<iframe width="260" height="315" src="https://www.youtube.com/embed/o36OjRmOhb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">námó bóqiéfádì, píshāshè, jùlū bìliúlí, bōlǎpó, hèlàshéyě,
       dátuōjiēduōyē, ē là hè dì, sānmiǎo sānbótuóyē, dázhítuō,
@@ -259,7 +259,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>觀音靈感真言</td>
+          <td>觀音靈感真言<iframe width="260" height="315" src="https://www.youtube.com/embed/K5TgXh7bdmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">oṃ maṇi padme hūṃ
       mahā jñāna cittotpāda cittasya na vitarka sarvārtha prasiddhaka na purāṇa na pratyutpanna
@@ -275,7 +275,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>七佛滅罪真言</td>
+          <td>七佛滅罪真言<iframe width="260" height="315" src="https://www.youtube.com/embed/GaxF_MAgCQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">lipa lipate, guha guhate, dharalite, nirharate, vimalate, maha gate, jinekante, svaha.</td>
 
@@ -285,7 +285,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>往生淨土神咒</td>
+          <td>往生淨土神咒<iframe width="260" height="315" src="https://www.youtube.com/embed/QbQGgtSgD2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">namo amitābhāya tathāgatāya tadyathā amṛtod-bhave amṛta-siddhaṃ bhave amṛta-vikrānte amṛta-vikrānta gāmine gagana kīrta-kare svāhā
           </td>
@@ -297,7 +297,7 @@ Oṃ varada padme hūm</td>
         </tr>
 
         <tr>
-          <td>善女天咒(大吉祥天女咒)</td>
+          <td>善女天咒(大吉祥天女咒)<iframe width="260" height="315" src="https://www.youtube.com/embed/Z_CXsPVEi_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
           <td v-show="showA">Namo buddhāya. Namo dharmāya. Namah samghāya.
     Namah Śrī Mahādevīye.Tadyathā,
