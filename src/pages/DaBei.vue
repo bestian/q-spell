@@ -17,7 +17,7 @@
 
     <div class="pad thin-only">
 
-    <h3>大悲咒</h3>
+    <h3>大悲咒<iframe width="360" height="315" src="https://www.youtube.com/embed/6nALRVtA4FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
 
     <p v-show="showA">na mo ra tna tra yā ya / <br/> 
 na ma ā ryā / <br/> 
@@ -97,7 +97,7 @@ rā ya bo dhi svā hā </p>
 
         <tr>
       
-          <td>大悲咒</td>
+          <td>大悲咒<iframe width="260" height="315" src="https://www.youtube.com/embed/6nALRVtA4FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 
     <td v-show="showA">na mo ra tna tra yā ya / <br/> 
 na ma ā ryā / <br/> 
