@@ -70,6 +70,14 @@ export default defineComponent({
       showC: true,
       sources: [
         {
+          src: '/light.aac',
+          type: 'audio/mp4'
+        },
+        {
+          src: '/light.mp4',
+          type: 'audio/mp4'
+        },
+        {
           src: '/light.mp3',
           type: 'audio/mp3'
         },

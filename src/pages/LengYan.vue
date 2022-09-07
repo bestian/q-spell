@@ -1019,6 +1019,14 @@ export default defineComponent({
       showC: true,
       sources: [
         {
+          src: '/lengyen.aac',
+          type: 'audio/mp4'
+        },
+        {
+          src: '/lengyen.mp4',
+          type: 'audio/mp4'
+        },
+        {
           src: '/lengyen.mp3',
           type: 'audio/mp3'
         },
