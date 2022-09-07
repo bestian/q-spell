@@ -17,12 +17,7 @@
 
     <div class="pad thin-only">
 
-    <h3>楞嚴咒<div style="max-width: 60px; width: 100%;">
-    <q-media-player
-      type="audio"
-      :sources="sources"
-    />
-  </div></h3>
+    <h3>楞嚴咒<div class="q-video"><iframe width="360" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></h3>
 
     <p v-show="showB">南無楞嚴會上佛菩薩 (三稱) <br/>
 
@@ -513,12 +508,7 @@
       <tbody>
       
         <tr>
-          <td>楞嚴咒<div style="max-width: 260px; width: 100%;">
-    <q-media-player
-      type="audio"
-      :sources="sources"
-    />
-  </div></td>
+          <td>楞嚴咒<div class="q-video"><iframe width="260" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 
           <td v-show="showA"></td>
 
@@ -1016,25 +1006,7 @@ export default defineComponent({
     return {
       showA: false,
       showB: true,
-      showC: true,
-      sources: [
-        {
-          src: '/lengyen.aac',
-          type: 'audio/mp4'
-        },
-        {
-          src: '/lengyen.mp4',
-          type: 'audio/mp4'
-        },
-        {
-          src: '/lengyen.mp3',
-          type: 'audio/mp3'
-        },
-        {
-          src: '/lengyen.ogg',
-          type: 'audio/ogg'
-        }
-      ]
+      showC: true
     }
   }
 })
