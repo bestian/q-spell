@@ -26,8 +26,7 @@ module.exports = configure(function (ctx) {
     // --> boot files are part of "main.js"
     // https://v2.quasar.dev/quasar-cli-webpack/boot-files
     boot: [
-      'firebase',
-      'mplayer'   
+      'firebase'
     ],
 
     cordova: {
@@ -55,10 +54,6 @@ module.exports = configure(function (ctx) {
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js#Property%3A-build
     build: {
       vueRouterMode: 'hash', // available values: 'hash', 'history
-      transpile: true,
-      transpileDependencies: [
-        /quasar-ui-qmediaplayer[\\/]src/
-      ],
       // transpile: false,
       // publicPath: '/',
 
