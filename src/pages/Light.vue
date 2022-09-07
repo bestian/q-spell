@@ -16,7 +16,7 @@
   </div>
 
     <div class="pad thin-only">
-      <h3>光明真言<div class="q-video"><iframe width="360" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></h3>
+      <h3>光明真言<div class="q-video"><iframe width="360" height="315" src="https://www.youtube.com/embed/RX-usnj7YBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></h3>
       <p v-show="showA">𑖌𑖼𑖀𑖦𑖺𑖑𑖪𑖹𑖨𑖺𑖓𑖡<br/>𑖦𑖮𑖯𑖦𑖲𑖟𑖿𑖨𑖯𑖦𑖜𑖰𑖢𑖟𑖿𑖦<br/>𑖕𑖿𑖪𑖯𑖩𑖢𑖿𑖨𑖪𑖨𑖿𑖝𑖿𑖝𑖧𑖮𑗝𑖽
           </p>
       <p v-show="showA">oṃ amogha vairocana mahā-mudra maṇi-padma jvala pravarttaya hūṃ</p>
@@ -34,7 +34,7 @@
       <tbody>
       
         <tr>
-          <td>光明真言<div class="q-video"><iframe width="260" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+          <td>光明真言<div class="q-video"><iframe width="260" height="315" src="https://www.youtube.com/embed/RX-usnj7YBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 
           <td v-show="showA">oṃ amogha vairocana mahā-mudra maṇi-padma jvala pravarttaya hūṃ</td>
 

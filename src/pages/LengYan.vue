@@ -17,7 +17,7 @@
 
     <div class="pad thin-only">
 
-    <h3>楞嚴咒<div class="q-video"><iframe width="360" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></h3>
+    <h3>楞嚴咒<div class="q-video"><iframe width="360" height="315" src="https://www.youtube.com/embed/cRahWAwwegM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></h3>
 
     <p v-show="showB">南無楞嚴會上佛菩薩 (三稱) <br/>
 
@@ -508,7 +508,7 @@
       <tbody>
       
         <tr>
-          <td>楞嚴咒<div class="q-video"><iframe width="260" height="315" src="https://www.youtube.com/embed/LDntovQqz1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+          <td>楞嚴咒<div class="q-video"><iframe width="260" height="315" src="https://www.youtube.com/embed/cRahWAwwegM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 
           <td v-show="showA"></td>
 
