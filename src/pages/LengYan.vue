@@ -17,7 +17,12 @@
 
     <div class="pad thin-only">
 
-    <h3>楞嚴咒</h3>
+    <h3>楞嚴咒<div style="max-width: 60px; width: 100%;">
+    <q-media-player
+      type="audio"
+      :sources="sources"
+    />
+  </div></h3>
 
     <p v-show="showB">南無楞嚴會上佛菩薩 (三稱) <br/>
 
@@ -508,7 +513,12 @@
       <tbody>
       
         <tr>
-          <td>楞嚴咒</td>
+          <td>楞嚴咒<div style="max-width: 260px; width: 100%;">
+    <q-media-player
+      type="audio"
+      :sources="sources"
+    />
+  </div></td>
 
           <td v-show="showA"></td>
 
@@ -1006,7 +1016,17 @@ export default defineComponent({
     return {
       showA: false,
       showB: true,
-      showC: true
+      showC: true,
+      sources: [
+        {
+          src: '/lengyen.mp3',
+          type: 'audio/mp3'
+        },
+        {
+          src: '/lengyen.ogg',
+          type: 'audio/ogg'
+        }
+      ]
     }
   }
 })

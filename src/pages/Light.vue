@@ -16,7 +16,12 @@
   </div>
 
     <div class="pad thin-only">
-      <h3>光明真言</h3>
+      <h3>光明真言<div style="max-width: 360px; width: 100%;">
+    <q-media-player
+      type="audio"
+      :sources="sources"
+    />
+  </div></h3>
       <p v-show="showA">𑖌𑖼𑖀𑖦𑖺𑖑𑖪𑖹𑖨𑖺𑖓𑖡<br/>𑖦𑖮𑖯𑖦𑖲𑖟𑖿𑖨𑖯𑖦𑖜𑖰𑖢𑖟𑖿𑖦<br/>𑖕𑖿𑖪𑖯𑖩𑖢𑖿𑖨𑖪𑖨𑖿𑖝𑖿𑖝𑖧𑖮𑗝𑖽
           </p>
       <p v-show="showA">oṃ amogha vairocana mahā-mudra maṇi-padma jvala pravarttaya hūṃ</p>
@@ -34,7 +39,12 @@
       <tbody>
       
         <tr>
-          <td>光明真言</td>
+          <td>光明真言<div style="max-width: 260px; width: 100%;">
+    <q-media-player
+      type="audio"
+      :sources="sources"
+    />
+  </div></td>
 
           <td v-show="showA">oṃ amogha vairocana mahā-mudra maṇi-padma jvala pravarttaya hūṃ</td>
 
@@ -57,7 +67,17 @@ export default defineComponent({
     return {
       showA: false,
       showB: true,
-      showC: true
+      showC: true,
+      sources: [
+        {
+          src: '/light.mp3',
+          type: 'audio/mp3'
+        },
+        {
+          src: '/light.ogg',
+          type: 'audio/ogg'
+        }
+      ]
     }
   }
 })

@@ -1,6 +1,6 @@
 {
   "name": "q-spell",
-  "version": "0.0.9",
+  "version": "1.1.0",
   "description": "Spells",
   "productName": "佛門咒文集",
   "author": "Bestian Tang 小巴 <bestian@gmail.com>",
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "@quasar/quasar-ui-qmediaplayer": "^2.0.0-beta.6",
     "core-js": "^3.6.5",
     "firebase": "^9.9.4",
     "quasar": "^2.6.0",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@quasar/app-webpack": "^3.0.0",
+    "@quasar/quasar-app-extension-qmediaplayer": "^2.0.0-beta.6",
     "eslint": "^8.10.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^9.0.0",
