@@ -6,6 +6,8 @@
         <router-link class = "btn" to="/ten">十小咒</router-link>
         <router-link class = "btn" to="/dabei">大悲咒</router-link>
         <router-link class = "btn" to="/lengyan">楞嚴咒</router-link>
+        <router-link class = "btn" to="/three">三皈依</router-link>
+        <router-link class = "btn" to="/bell">叩鐘</router-link>
         <router-link class = "btn" to="/">回首頁</router-link>
       </div>
     選擇顯示：

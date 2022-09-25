@@ -1,13 +1,12 @@
 <template>
   <q-page class="flex flex-center">
 
-    <!-- 
     <div class="q-pa-md">
       <h4>App免費下載</h4>
       <q-btn href="https://play.google.com/store/apps/details?id=tw.bestian.spells" label="" push color="purple"><q-icon name="shop" />Google play安裝</q-btn>
       <q-btn href="https://apps.apple.com/tw/app/%E4%BD%9B%E9%96%80%E5%92%92%E6%96%87%E9%9B%86/id1642445144" label="" push color="blue"><q-icon name="apple" />App Store安裝</q-btn>
     
-    </div>   -->
+    </div>
     <div class="q-pa-md">
       <div v-for="s in spells" :key="s.time">
         {{s.date}}: {{s.name}} 念了 {{s.say}}
@@ -50,6 +49,8 @@
         <router-link class = "btn" to="/ten">十小咒</router-link>
         <router-link class = "btn" to="/dabei">大悲咒</router-link>
         <router-link class = "btn" to="/lengyan">楞嚴咒</router-link>
+        <router-link class = "btn" to="/three">三皈依</router-link>
+        <router-link class = "btn" to="/bell">叩鐘</router-link>
         <router-link class = "btn" to="/">回首頁</router-link>
       </div>
     </div>

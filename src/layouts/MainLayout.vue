@@ -30,6 +30,8 @@
         <q-item to="/ten">十小咒</q-item>
         <q-item to="/dabei">大悲咒</q-item>
         <q-item to="/lengyan">楞嚴咒</q-item>
+        <q-item to="/three">三皈依</q-item>
+        <q-item to="/bell">叩鐘</q-item>
 
         <EssentialLink
           v-for="link in essentialLinks"
