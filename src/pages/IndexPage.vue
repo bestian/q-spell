@@ -8,7 +8,7 @@
     
     </div> -->
     <div class="q-pa-md">
-      <div v-for="s in spells" :key="s.time">
+      <div v-for="s in st(spells)" :key="s.time">
         {{s.date}}: {{s.name}} 念了 {{s.say}}
       </div>
     </div>
@@ -77,7 +77,14 @@ export default defineComponent({
     }
   },
   methods: {
-    submit() {
+    st (list) {
+      var ans = [ ...list]
+      ans.sort(function (a, b) {
+        return b.time - a.time
+      })
+      return ans
+    },
+    submit () {
         firebase
             .firestore()
             .collection("spells")
