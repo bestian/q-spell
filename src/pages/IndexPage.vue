@@ -7,11 +7,12 @@
       <q-btn href="https://apps.apple.com/tw/app/%E4%BD%9B%E9%96%80%E5%92%92%E6%96%87%E9%9B%86/id1642445144" label="" push color="blue"><q-icon name="apple" />App Store安裝</q-btn>
     
     </div> -->
-    <div class="q-pa-md">
+
+    <!-- <div class="q-pa-md">
       <div v-for="s in st(spells)" :key="s.time">
         {{s.date}}: {{s.name}} 念了 {{s.say}}
       </div>
-    </div>
+    </div> -->
 
     <div class="q-pa-md">
       <q-form
